@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vn/a7kLz80ss1R50elLdt+rb5L04HCdDD1lQ2UcOYTtfb99ueoaTtjef7OHJoqaP1x0kiDH1Fbkq6VIoH0PaRA==",
+  "success": true,
+  "projectFilePath": "/Users/rasmusmeldgaardjensen/Projects/ShelterBooking-miniprojekt/ShelterBooking-miniprojekt/Shared/ShelterBooking-miniprojekt.Shared.csproj",
+  "expectedPackageFiles": [
+    "/Users/rasmusmeldgaardjensen/.nuget/packages/mongodb.bson/2.18.0/mongodb.bson.2.18.0.nupkg.sha512",
+    "/Users/rasmusmeldgaardjensen/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
